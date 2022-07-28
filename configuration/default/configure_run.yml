@@ -1,9 +1,9 @@
 restart_file: .na
-start_datetime: 2022-07-01 00:00:00
+start_datetime: 2022-06-25 00:00:00
 end_datetime: .na
-forecast_start_datetime: 2022-07-02 00:00:00
+forecast_start_datetime: 2022-06-26 00:00:00
 forecast_horizon: 16.0
-sim_name: tutorial_vd5
+sim_name: tutorial_vd6
 configure_flare: configure_flare.yml
 configure_obs: observation_processing.yml
 use_s3: TRUE
